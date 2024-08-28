@@ -26,7 +26,7 @@ npm install
 to run a build file run this below command
 
 ```bash
-npm run dev
+npm run build
 ```
 
 
