@@ -20,7 +20,7 @@ cd tailwebs-ssignemnt
 composer install
 ```
 ```bash
-npm install 
+npm install
 ```
 
 to run a build file run this below command
